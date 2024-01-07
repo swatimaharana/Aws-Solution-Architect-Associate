@@ -6,3 +6,8 @@
 
 # IAM Permission 
 Users and Groups can be assigned JSON documenets called policies. 
+
+
+![Alt text](image-4.png)
+
+# IAM Policy Structure
