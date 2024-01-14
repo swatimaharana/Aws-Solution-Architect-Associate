@@ -1,5 +1,5 @@
 
-![Alt text](image-1.png)
+![image-1.png](<Images/Aws Cloud History.png>)
 
 
 
@@ -22,8 +22,8 @@
 2. Each AZ is one or more discrete data centers with redundant power , networking and connectivity .
 3. Separate from each other so that they are isolated from disasters .
 
-    ![Alt text](image-2.png)
+    ![image-2.png](<Images/Availability Zone.png>)
         
 
 
-![Alt text](image-3.png)
+![Alt text](<Images/Aws Console Tour.png>)

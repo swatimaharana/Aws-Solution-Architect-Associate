@@ -8,6 +8,8 @@
 Users and Groups can be assigned JSON documenets called policies. 
 
 
-![Alt text](image-4.png)
+![Alt text](<Images/IAM Access.png>)
+
+
 
 # IAM Policy Structure
